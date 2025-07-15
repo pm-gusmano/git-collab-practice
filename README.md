@@ -21,3 +21,5 @@ Hey everyone! This is the new `README`! I fixed a typo
 
 ### LMH
 Attempt at making a pull request
+
+### Paul likes eggs
