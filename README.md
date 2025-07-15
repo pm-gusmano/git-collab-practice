@@ -15,9 +15,9 @@ The dates so far have been:
 The INTERSECT project is supported by NSF awards [2017424](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017424)
 and [2017259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017259).
 
-### LMH is adding the time mark to this exercise: 10:54 am EST in Princeton, NJ
+### LMH is adding the time mark to this excersize: 10:54 am EST in Princeton, NJ
 
-Hey everyone! This is the new `README`! I fixed a typo
+Hey everyone! This is the new `README`!
 
 ### LMH
 Attempt at making a pull request
