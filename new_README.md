@@ -13,3 +13,9 @@ Maybe it's better to just write prose. What a nice change of pace from working o
 ## New
 
 Now I'm going to try to this again. Now I forgot to add punctuation. 
+
+# Basic title and details
+Things are complicated!
+## Birds
+
+So, birds are messy. American Robins can be annoying. Just FYI. Don't piss them off.
