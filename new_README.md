@@ -12,4 +12,4 @@ Maybe it's better to just write prose. What a nice change of pace from working o
 
 ## New
 
-Now I'm going to try to this again
+Now I'm going to try to this again. Now I forgot to add punctuation. 
