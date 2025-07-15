@@ -2,6 +2,8 @@
 name: Bird Discussion
 about: For discussions about birds
 title: 
-labels:
+labels: Bird Related
 assignee: johannabeam
 ---
+
+# Which Bird?
