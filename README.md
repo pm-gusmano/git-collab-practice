@@ -16,3 +16,5 @@ The INTERSECT project is supported by NSF awards [2017424](https://www.nsf.gov/a
 and [2017259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017259).
 
 ### LMH is adding the time mark to this excersize: 10:54 am EST in Princeton, NJ
+
+Hey everyone! This is the new `README`!
