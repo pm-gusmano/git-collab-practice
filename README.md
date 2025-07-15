@@ -16,3 +16,5 @@ The INTERSECT project is supported by NSF awards [2017424](https://www.nsf.gov/a
 and [2017259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017259).
 
 ### Paul likes eggs
+
+### American Robins are weird i guess. Don't piss them off!!
